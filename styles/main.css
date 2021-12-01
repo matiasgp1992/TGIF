@@ -1,0 +1,50 @@
+header.container{
+    width: 100%;
+    height: 25vh;
+    background-image: url(../assets/flag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 70%;
+}
+
+.row{
+    height: 50%;
+}
+
+#logo{
+    height: 700%; /* se que ésto esta mal es medio "chancho"...pero asi lo pude resolver */
+}
+
+#congressLogo{
+    height: 20%;
+}
+
+nav.col{
+    width: 100%;
+    height: 50%;
+}
+
+nav{
+    border: 3px solid black;
+    background-color: #adb5bd;
+}
+
+main.container{
+    width: 100%;
+    min-height: 65vh;
+}
+
+footer.container{
+    width: 100%;
+    height: 10vh;
+    background-color: #adb5bd;
+    border: 3px solid black;
+}
+
+#sobre{
+    height: 5%;
+}
+
+#email{
+    height: 100vh;
+}
